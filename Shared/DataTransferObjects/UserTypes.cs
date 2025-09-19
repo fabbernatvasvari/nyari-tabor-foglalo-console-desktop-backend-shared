@@ -8,10 +8,10 @@ namespace MyApp.Shared.DataTransferObjects
 {
     public enum UserTypes
     {
-        admin,
-        parent,
-        pedagogue,
-        child,
-        camp_organizer
+        ADMIN,
+        PARENT,
+        PEDAGOGUE,
+        CHILD,
+        CAMP_ORGANIZER
     }
 }
